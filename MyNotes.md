@@ -35,6 +35,7 @@
 ### Introducing the xUnit framework
 
 - You can install the `C# Dev Kit` extension for VS Code to use the GUI for testing
+    * You must build the test project for the tests to appear in the Test Explorer
 - Creating a xUnit project `MyProject.Tests`
 
 
